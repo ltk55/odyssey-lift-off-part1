@@ -38,3 +38,5 @@ async function startApolloServer() {
     📭  Query at ${url}
   `);
 }
+
+startApolloServer();
